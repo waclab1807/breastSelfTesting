@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/139abda918f3699be71456b3fd9ccf6b566931c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afdc2c4724f659402b28e1a9c87d216dba203dbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/904aedc27dc804c50679a882ba32d3c948069d7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_829e9c62df2adfd6ebf727c163a25f33c964cd3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/6e16ef7c9a9da3f87ed084c6c5406b455c10bcc1/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_9ae4fc1bd860832ade4934ca3fd541a6483c9c18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/a6479fe3129873fe96fb53237172f84934036e44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd7b9f5f2c9d162cdc2f4cbdb4ca1acf8bbb725d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="095916f633c60fc400cd3a41d28c8f36eadbb49f">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d8fcca7bc64b73dc9aec50f356856b49eaac3172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83648c222dd0b3ba2a4bd69ef567f9adda7a3fc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_700556ce6c7136ebd09d2c965625cd655ca19563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_47cc112ae4a8de2573fe3250f97c809ac01b7bd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/063a1297af0ba9ed10c97ff477e3f3c2beded085/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11c93d14762090ca301ae34d4344e4336713b621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/6e16ef7c9a9da3f87ed084c6c5406b455c10bcc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b43fb973b6eb818a2b9d8558b02425d069677a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_9dfc50f9b7207cab40633ca45689c44b6285dfaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/4c25f9e1abb0120b66ff9b258448dc49de76e21b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9043351cefadea4ba31f9cad81bd886454d50f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/be2664506b29795d39318d35420877fcdb56354b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f149fd45ddd2684cb2a267c3fb2e4ae33366e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/7150fdeed248f9e93be1c5fe434e90fb5512f993/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7749f4cc78dcb9be9f54a2ce810b4ca18d46a54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/0907027071024831f11933754ab46f29bb652149/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_931b9fa330a9d4300a8f454a628c9b7c9e6cc187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/08d25aede2cadf97fed403d160d8555014cd0606/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b99c4f346d0d5cbefe1c5a49f8838c76a14913a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/2a105e2a00a61c3ebe0684e418162432d298d1fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4618a3d46f0bd27f0f4b7e0cccc62ce94b7e5d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/waclabdev/.android/build-cache/d2ddc846bf3240ab8e67f5459c445c2b12c99f38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/waclabdev/AndroidStudioProjects/BreastSelftTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcb04cde3fd79d9a505a0a0880bd6bb849217524/classes.dex" />
+    </item>
+
+</items>

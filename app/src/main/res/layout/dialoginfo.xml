@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffffff">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/a"
+        android:gravity="center"
+        android:background="#DA5F6A"
+        android:src="@drawable/tommed"
+        android:scaleType="fitCenter" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOMMED"
+        android:id="@+id/text_dialog"
+        android:layout_below="@+id/a"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="18sp"
+        android:textColor="#ff000000"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tel: 666 123 123"
+        android:layout_marginBottom="20dp"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_dialog"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="e-mail: tommed@tommed.com" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="OK"
+        android:id="@+id/btn_dialog"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@color/colorAccent"
+        android:textColor="#ffffffff"
+        android:layout_marginTop="18dp"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
